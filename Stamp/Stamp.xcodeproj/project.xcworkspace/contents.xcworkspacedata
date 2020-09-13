@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Stamp&#x7d20;&#x6750;">
+   </FileRef>
+   <FileRef
+      location = "group:StampSozai.zip">
+   </FileRef>
+   <FileRef
+      location = "self:Stamp.xcodeproj">
+   </FileRef>
+</Workspace>
